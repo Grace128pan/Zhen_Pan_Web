@@ -1,3 +1,5 @@
+/* This is a new starting point for javascript
+ */
 var myArray = [1, 2, 3];
 console.log(myArray);
 
